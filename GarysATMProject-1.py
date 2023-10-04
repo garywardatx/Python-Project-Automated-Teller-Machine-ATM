@@ -6,45 +6,45 @@
 * University: Husson
 * Author: Gary Ward
 * Course: MI 261
-* Date: 2016-12-16
+* Date: 2022-12-16
 *
 * Description: ATM COURSE PROJECT
 *
 * Edit History / Change Log
 * DATE                 CHANGE DESCRIPTION
 * ---------------------------------------
-* 2016-11-06           ATM Project 3rd Iteration
-* 2016-12-03           ATM Project Receipt
-* 2016-12-08           Added variable declarations & function definitions.
-* 2016-12-10           Adding new menu functionality
-* 2016-12-11           Main menu written, can successfully enter acct info and exit atm. Working on
+* 2022-11-06           ATM Project 3rd Iteration
+* 2022-12-03           ATM Project Receipt
+* 2022-12-08           Added variable declarations & function definitions.
+* 2022-12-10           Adding new menu functionality
+* 2022-12-11           Main menu written, can successfully enter acct info and exit atm. Working on
                        deposit functionality.
-* 2016-12-12           Deposit functionality written and working. Need to figure out how to add values
+* 2022-12-12           Deposit functionality written and working. Need to figure out how to add values
                        from all accounts together and print to receipt. Focus on vars.
-* 2016-12-13           Writing withdrawal functions and working on adding all totals to build receipt
+* 2022-12-13           Writing withdrawal functions and working on adding all totals to build receipt
                        functionality. Will need to work on data validation piece.
-* 2016-12-13           Balance inquiry complete. Deposit functionality complete. Program doesn't check
+* 2022-12-13           Balance inquiry complete. Deposit functionality complete. Program doesn't check
                        check balances correctly or deposit and wthdraw totals. This is an important part
                        of the business rules. Maybe need to simplify the program to achieve this. Break
                        down deposit and withdraw functions into separate pieces that handle user inputs
                        alone and validate totals in a separate function.
-* 2016-12-14           Working on a version 2 of the program. Including the pieces that work and modifying
+* 2022-12-14           Working on a version 2 of the program. Including the pieces that work and modifying
                        deposit and withdraw functions.
-* 2016-12-14           Modified login functionality.
-* 2016-12-14           Added new variables for checking, savings 1 and savings 2 to build fund tracking
+* 2022-12-14           Modified login functionality.
+* 2022-12-14           Added new variables for checking, savings 1 and savings 2 to build fund tracking
                        functionality.
-* 2016-12-14           Finished edits to login and deposit. Added print statements in exit_ATM() to display
+* 2022-12-14           Finished edits to login and deposit. Added print statements in exit_ATM() to display
                        user totals in all accounts. Still need to work out kinks in withdrawal function.
-* 2016-12-14           Withdrawal functions complete! Huge win. All that's left is receipt functionality!
-* 2016-12-15           Working on receipt functionality. Using the last for loop as a template.
-* 2016-12-15           Added acct_summary function to display starting and ending account balances.
-* 2016-12-15           Finished receipt functionality.
-* 2016-12-15           Adjusted display menu functionality - put menu options inside the loop. Edited prompts
+* 2022-12-14           Withdrawal functions complete! Huge win. All that's left is receipt functionality!
+* 2022-12-15           Working on receipt functionality. Using the last for loop as a template.
+* 2022-12-15           Added acct_summary function to display starting and ending account balances.
+* 2022-12-15           Finished receipt functionality.
+* 2022-12-15           Adjusted display menu functionality - put menu options inside the loop. Edited prompts
                        displayed to user.
-* 2016-12-15           Adjusted variables associated with withdrawal functions.
-* 2016-12-16           Fixed withdrawal functions so they adhere to business rules. Made minor adjustments to
+* 2022-12-15           Adjusted variables associated with withdrawal functions.
+* 2022-12-16           Fixed withdrawal functions so they adhere to business rules. Made minor adjustments to
                        receipt functionality.
-* 2016-12-16           Last minute edits to balance inquiry, deposit, withdrawal and receipt printing logic.
+* 2022-12-16           Last minute edits to balance inquiry, deposit, withdrawal and receipt printing logic.
 ******************************************************************************
 variable declaration:
 global variables
